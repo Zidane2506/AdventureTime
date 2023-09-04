@@ -216,6 +216,10 @@ body {
     .big-heading p {
         font-size: 1em;
     }
+
+    .logo {
+        width: 50px;
+    }
 }
 
 
