@@ -147,6 +147,7 @@ body {
 .big-heading p {
     font-size: 1.5em;
     margin-bottom: 50px;
+    text-indent: 60px;
 }
 
 .explore-button {
